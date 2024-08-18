@@ -2,7 +2,6 @@
 Bonjour! 😊 Moi c'est Bhawuk! <🤠/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=geeky-bhawuk-arora&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geeky-bhawuk-arora&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-bhawuk-arora&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
