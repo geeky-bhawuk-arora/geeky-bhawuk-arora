@@ -8,7 +8,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geeky-bhawuk-arora&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geeky-bhawuk-arora&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geeky-bhawuk-arora&theme=2077" height="180em" />
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-bouali&" alt="ali-bouali" /></p></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-bhawuk-arora&theme=2077" alt="bhawuk-arora" /></p></div>
 </div>
 
 ---
