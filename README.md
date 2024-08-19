@@ -1,6 +1,6 @@
 ## <div align="center">💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/></div>
 
-## <div align="center">A Passionate Software Engineer from India</div>
+### <div align="center">A Passionate Software Engineer from India</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geeky-bhawuk-arora&theme=default_repocard&hide_border=false)<br/>
