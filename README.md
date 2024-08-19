@@ -1,5 +1,5 @@
-# 💫 About Me:
-Bonjour! 😊 Moi c'est Bhawuk! <🤠/>
+# 💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geeky-bhawuk-arora&theme=default_repocard&hide_border=false)<br/>
