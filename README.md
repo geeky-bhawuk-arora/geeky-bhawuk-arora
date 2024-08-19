@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-bhawuk-arora&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-bhawuk-arora" /> </p>
 
+---
+
 <div align="center">
 <a href="https://github.com/ali-bouali">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geeky-bhawuk-arora&theme=2077" height="180em" />
@@ -22,7 +24,6 @@
 
 **Happy Coding! 🚀💻**
 
----
 
 
 
