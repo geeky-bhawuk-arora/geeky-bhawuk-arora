@@ -3,13 +3,14 @@
 
 <div align="center">
 <a href="https://github.com/geeky-bhawuk-arora">
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-bhawuk-arora&theme=2077" alt="bhawuk-arora" /></p></div>
+</div>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geeky-bhawuk-arora&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geeky-bhawuk-arora&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geeky-bhawuk-arora&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geeky-bhawuk-arora&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geeky-bhawuk-arora&theme=2077" height="180em" />
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-bhawuk-arora&theme=2077" alt="bhawuk-arora" /></p></div>
-</div>
+
 
 ---
 <h3 align="left">Connect with Me:</h3>
