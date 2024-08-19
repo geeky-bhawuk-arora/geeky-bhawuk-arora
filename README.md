@@ -1,8 +1,6 @@
 <h1 align="center">💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/></h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
----
-
 <div align="center">
 <a href="https://github.com/geeky-bhawuk-arora">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geeky-bhawuk-arora&theme=2077" height="180em" />
