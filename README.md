@@ -1,4 +1,4 @@
-<h1 align="center">💫 Bonjour 😊 Moi c'est Bhawuk! <🤠/></h1>
+<h1 align="center">💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/></h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
 <div align="center">
