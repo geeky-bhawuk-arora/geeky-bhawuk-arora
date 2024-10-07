@@ -12,11 +12,7 @@
 
 
 ---
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhawukarora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhawukarora" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhawuk-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhawuk-arora" height="30" width="40" /></a>
-<a href="https://instagram.com/bhawuk_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhawuk_arora" height="30" width="40" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-bhawuk-arora&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-bhawuk-arora" /> </p>
 
