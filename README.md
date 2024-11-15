@@ -1,6 +1,4 @@
-<h1 align="center">💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/></h1>
-
-# 🌟 Welcome to Bhawuk's Tech Wonderland
+# 🌟 💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/>
 
 Hello, fellow tech enthusiasts! I'm **Bhawuk Arora**, a B.Tech student in **AI & Data Science** at **Poornima College of Engineering, Jaipur**. Translation: I spend my days talking to computers and convincing them to cooperate (mostly with **Java**, **Spring Boot**, and **Microsoft Azure**). I'm basically a cloud wrangler and a bug whisperer.
 
