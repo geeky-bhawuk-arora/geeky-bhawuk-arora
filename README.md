@@ -13,6 +13,7 @@ Hello, fellow tech enthusiasts! I'm **Bhawuk Arora**, a B.Tech student in **AI &
   - 🤝 Open-source contributions. (Sharing is caring, even with code. 🤗💻)
 - Obsessed with **cybersecurity** 🛡️🔐. Who doesn’t love a good firewall drama? 🔥🚪
 - I’m on a mission to learn everything 📚, one YouTube tutorial 🎥 and crash course at a time. 🤓💥
+- Basically, if it involves technology, creativity, and a healthy dose of caffeine-induced genius, I’m your person. ✌️
 
 ---
 
@@ -27,6 +28,8 @@ Hello, fellow tech enthusiasts! I'm **Bhawuk Arora**, a B.Tech student in **AI &
 ## 🚀 Let’s Connect 🌍
 
 Want to build something amazing 💡 (or just debug something that refuses to work)? I’m your person! Let’s innovate, iterate 🔄, and maybe grab some coffee ☕ while we’re at it. Hit me up! 🎉👋
+
+
 
 ---
 
