@@ -9,7 +9,7 @@ Hello, fellow tech enthusiasts! I'm **Bhawuk Arora**, a B.Tech student in **AI &
 - **Entrepreneurial mindset**? ✅ That’s a fancy way of saying I have too many ideas 💡 and not enough time ⏰.
 - Interests:
   - 🛩️ Building RC aircraft. (Yes, they fly... usually. ✈️🚀)
-  - ✍️ Writing content. (Because someone has to explain what I do in human language. 📜🖋️)
+  - ✍️ Writing content. (Because I have to explain my spells to others in a way that doesn’t make their eyes glaze over. 📜🖋️)
   - 🤝 Open-source contributions. (Sharing is caring, even with code. 🤗💻)
 - Obsessed with **cybersecurity** 🛡️🔐. Who doesn’t love a good firewall drama? 🔥🚪
 - I’m on a mission to learn everything 📚, one YouTube tutorial 🎥 and crash course at a time. 🤓💥
