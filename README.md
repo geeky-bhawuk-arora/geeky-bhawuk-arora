@@ -1,71 +1,42 @@
 # 🌟 💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/>
 
-![Tech Meme](https://i.imgflip.com/5n5nrn.jpg)  
-(*Me convincing a bug to leave my code be like...*)
+Hello, fellow tech enthusiasts! I'm **Bhawuk Arora**, a B.Tech student in **AI & Data Science** at **Poornima College of Engineering, Jaipur**. I spend my days talking to computers and convincing them to cooperate (mostly with **Java** ☕, **Spring Boot** 🥾, and **Microsoft Azure** ☁️). I'm basically a cloud wrangler 🌩️ and a bug whisperer 🐛🔧.
 
-Hello, fellow tech enthusiasts!  
-I'm **Bhawuk Arora**, a B.Tech student in **AI & Data Science** at **Poornima College of Engineering, Jaipur**.  
-
-I spend my days talking to computers and convincing them to cooperate (mostly with **Java** ☕, **Spring Boot** 🥾, and **Microsoft Azure** ☁️).  
-Think of me as a **cloud wrangler** 🌩️ and a **bug whisperer** 🐛🔧.
+![Programmer Humor](https://imgur.com/gallery/Juio75G)  
+*(When your "perfect" code runs on the first try... and then you realize it's just luck!)*&#8203;:contentReference[oaicite:0]{index=0}
 
 ---
 
-## 💡 **About Me** 😎
+## 💡 About Me 😎
 
-![Developer Life Meme](https://i.imgflip.com/5n5nwj.jpg)  
-(*When I try explaining code to a non-tech person...*)
+- **Entrepreneurial mindset**? ✅ That’s a fancy way of saying I have too many ideas 💡 and not enough time ⏰.
+- Interests:
+  - 🛩️ Building RC aircraft and drones. (Yes, they fly... usually. ✈️🚀)
+  - ✍️ Writing content. (Because I have to explain my spells to others in a way that doesn’t make their eyes glaze over. 📜🖋️)
+  - 🤝 Open-source contributions. (Sharing is caring, even with code. 🤗💻)
+- Obsessed with **cybersecurity** 🛡️🔐. Who doesn’t love a good firewall drama? 🔥🚪
+- I’m on a mission to learn everything 📚, one YouTube tutorial 🎥 and crash course at a time. 🤓💥
+- Basically, if it involves technology, creativity, and a healthy dose of caffeine-induced genius, I’m your person. ✌️
 
-### 🌍 What Makes Me Tick:
-- Entrepreneurial mindset? ✅  
-  (That’s a fancy way of saying I have too many ideas 💡 and not enough time ⏰.)
-- Obsessed with **cybersecurity** 🛡️🔐.  
-  (Who doesn’t love a good firewall drama? 🔥🚪)
-
----
-
-### 🎯 Interests:
-- 🛩️ **Building RC aircraft and drones**  
-  *(Yes, they fly... usually. ✈️🚀)*  
-- ✍️ **Writing content**  
-  *(Explaining my spells so people’s eyes don’t glaze over. 📜🖋️)*  
-- 🤝 **Open-source contributions**  
-  *(Sharing is caring, even with code. 🤗💻)*  
+![Day as a Developer](https://imgur.com/gallery/SwD8Xrk)  
+*(The rollercoaster of emotions during debugging.)*&#8203;:contentReference[oaicite:1]{index=1}
 
 ---
 
-### 🚀 On a Mission:
-![Learning Meme](https://i.imgflip.com/5n5obu.jpg)  
-(*Me after one YouTube tutorial and a crash course.*)  
+## 🌟 Words to Live By ✨
 
-To learn **everything** 📚, one **YouTube tutorial** 🎥 and **crash course** 💥 at a time.  
-
-Basically, if it involves **technology**, **creativity**, and a healthy dose of **caffeine-induced genius**, I’m your person. ✌️
-
----
-
-## 🌟 **Words to Live By** ✨
-
-> **"Innovation distinguishes between a leader 👑 and a follower 🐑."**  
+> "Innovation distinguishes between a leader 👑 and a follower 🐑."  
 > — *Steve Jobs*  
+> *(Also, caffeine ☕ distinguishes between me and a functional human. 💤)*
 
-(*Also, caffeine ☕ distinguishes between me and a functional human. 💤*)
-
-![Caffeine Meme](https://i.imgflip.com/5n5orx.jpg)
+![Developer Reality](https://imgur.com/gallery/q7mJE5p)  
+*(Why fix bugs today when you can push it to tomorrow?)*&#8203;:contentReference[oaicite:2]{index=2}
 
 ---
 
-## 🚀 **Let’s Connect** 🌍
+## 🚀 Let’s Connect 🌍
 
-Want to build something amazing 💡 (or just debug something that refuses to work)?  
-I’m your person! Let’s **innovate**, **iterate** 🔄, and maybe grab some coffee ☕ while we’re at it.  
-
-### 📬 **Find Me Here**:  
-- **GitHub**: [@geeky-bhawuk-arora](https://github.com/geeky-bhawuk-arora)  
-- **LinkedIn**: [Bhawuk Arora](https://www.linkedin.com/in/bhawuk-arora/)  
-- **Twitter**: [@BhawukTweets](https://twitter.com/BhawukTweets)  
-
-🎉👋 Let’s make something epic together!
+Want to build something amazing 💡 (or just debug something that refuses to work)? I’m your person! Let’s innovate, iterate 🔄, and maybe grab some coffee ☕ while we’re at it. Hit me up! 🎉👋
 
 ---
 
