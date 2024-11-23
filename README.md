@@ -1,27 +1,38 @@
 # 🌟 💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/>
+# 🌟 Bhawuk Arora  
 
 Hello, fellow tech enthusiasts!  
-I'm **Bhawuk Arora**, a B.Tech student in **AI & Data Science** at **Poornima College of Engineering, Jaipur**.  
+I'm **Bhawuk Arora**, a **B.Tech student in AI & Data Science** at **Poornima College of Engineering, Jaipur**.  
+
 I spend my days talking to computers and convincing them to cooperate (mostly with **Java** ☕, **Spring Boot** 🥾, and **Microsoft Azure** ☁️).  
-I'm basically a cloud wrangler 🌩️ and a bug whisperer 🐛🔧.
+I'm basically a **cloud wrangler** 🌩️ and a **bug whisperer** 🐛🔧.
 
 ---
 
-## 💡 About Me 😎
+## 💡 **About Me** 😎  
 
-- **Entrepreneurial mindset**? ✅  
-  That’s a fancy way of saying I have too many ideas 💡 and not enough time ⏰.
-- **Interests**:
-  - 🛩️ Building RC aircraft and drones.  
-    (Yes, they fly... usually. ✈️🚀)
-  - ✍️ Writing content.  
-    (Because I have to explain my spells to others in a way that doesn’t make their eyes glaze over. 📜🖋️)
-  - 🤝 Open-source contributions.  
-    (Sharing is caring, even with code. 🤗💻)
-- Obsessed with **cybersecurity** 🛡️🔐.  
-  Who doesn’t love a good firewall drama? 🔥🚪
-- I’m on a mission to learn everything 📚, one YouTube tutorial 🎥 and crash course at a time. 🤓💥
-- Basically, if it involves technology, creativity, and a healthy dose of caffeine-induced genius, I’m your person. ✌️
+- **Entrepreneurial Mindset** ✅  
+  That’s a fancy way of saying I have too many ideas 💡 and not enough time ⏰.  
+
+### **Interests**  
+- 🛩️ **Building RC Aircraft and Drones**  
+  (Yes, they fly... usually. ✈️🚀)  
+- ✍️ **Writing Content**  
+  (Because I have to explain my spells to others in a way that doesn’t make their eyes glaze over. 📜🖋️)  
+- 🤝 **Open-Source Contributions**  
+  (Sharing is caring, even with code. 🤗💻)  
+
+### **Cybersecurity Enthusiast** 🛡️🔐  
+Who doesn’t love a good firewall drama? 🔥🚪  
+
+### **Always Learning** 📚  
+I’m on a mission to learn everything, one **YouTube tutorial** 🎥 and **crash course** 💥 at a time. 🤓  
+
+---
+
+### **In a Nutshell**  
+If it involves **technology**, **creativity**, and a healthy dose of **caffeine-induced genius**, I’m your person. ✌️  
+
 
 ---
 
