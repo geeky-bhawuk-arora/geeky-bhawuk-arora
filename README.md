@@ -14,13 +14,17 @@ Translation: **too many ideas** 💡, **too little time** ⏰, but hey, I make i
 
 ---
 
-### **Obsessions That Keep Me Up at Night**  
-- 🛩️ **RC Aircraft and Drones**  
-   I build ‘em, I fly ‘em, and occasionally, I *crash* ‘em. (It’s part of the process, okay? ✈️🚀)  
-- ✍️ **Writing Spells—Uh, Content**  
-   I can make even the most terrifying tech sound like a bedtime story. 📜🖋️  
-- 🤝 **Open-Source Wizardry**  
-   Sharing code, breaking barriers, and high-fiving strangers through GitHub. 🤗💻  
+# Things That Fuel My Late-Night Brainstorms
+
+- 🛩️ **RC Aircrafts and Drones** - I build ‘em, I fly ‘em, and occasionally, I *crash* ‘em. (It’s part of the process, okay? ✈️🚀)  
+
+- ✍️ **Writing Spells—Uh, Content** - I can make even the most terrifying tech sound like a bedtime story. 📜🖋️    
+
+
+- 🤝 **Open-Source Wizardry** - Sharing code, breaking barriers, and high-fiving strangers through GitHub. 🤗💻  
+
+- 🔍 **Researching Everything** - I’m like a human Wikipedia, but with 10 times more coffee and 100 times less accuracy. Whether it’s the latest tech, ancient civilizations, or why my cat is so obsessed with knocking things off tables, I’m diving into it all. 📚☕🐱
+
 
 ---
 
