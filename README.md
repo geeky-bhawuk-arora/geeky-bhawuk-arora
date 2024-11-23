@@ -1,5 +1,4 @@
 # 🌟 💫 Bonjour! 😊 Moi c'est Bhawuk! <🤠/>
-# 🌟 Bhawuk Arora  
 
 Hello, fellow tech enthusiasts!  
 I'm **Bhawuk Arora**, a **B.Tech student in AI & Data Science** at **Poornima College of Engineering, Jaipur**.  
@@ -15,15 +14,10 @@ I'm basically a **cloud wrangler** 🌩️ and a **bug whisperer** 🐛🔧.
   That’s a fancy way of saying I have too many ideas 💡 and not enough time ⏰.  
 
 ### **Interests**  
-- 🛩️ **Building RC Aircraft and Drones**  
-  (Yes, they fly... usually. ✈️🚀)  
-- ✍️ **Writing Content**  
-  (Because I have to explain my spells to others in a way that doesn’t make their eyes glaze over. 📜🖋️)  
-- 🤝 **Open-Source Contributions**  
-  (Sharing is caring, even with code. 🤗💻)  
+- 🛩️ **Building RC Aircraft and Drones**  (Yes, they fly... usually. ✈️🚀)  
+- ✍️ **Writing Content**  (Because I have to explain my spells to others in a way that doesn’t make their eyes glaze over. 📜🖋️)  
+- 🤝 **Open-Source Contributions**  (Sharing is caring, even with code. 🤗💻)  
 
-### **Cybersecurity Enthusiast** 🛡️🔐  
-Who doesn’t love a good firewall drama? 🔥🚪  
 
 ### **Always Learning** 📚  
 I’m on a mission to learn everything, one **YouTube tutorial** 🎥 and **crash course** 💥 at a time. 🤓  
