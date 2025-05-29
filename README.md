@@ -8,11 +8,11 @@ I embrace learning as an infinite voyage… one where remembrance holds equal we
 
 ---
 
-## 📬 Let's Connect
 
-📧 bhawukarora042@gmail.com  
-📱 +91 9782176005  
-🔗 [LinkedIn](https://linkedin.com/in/bhawuk-arora)
+## 🚀 Let’s Connect 🌍
+
+Want to build something amazing 💡 (or just debug something that refuses to work)?  
+I’m your person! Let’s innovate, iterate 🔄, and maybe grab some coffee ☕ while we’re at it.  
 
 ---
 
