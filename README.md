@@ -2,15 +2,12 @@
 
 On paper, I'm a student of AI & Data Science. In reality, I'm a professional bug creator and a full-time enthusiast of things that fly (and occasionally crash).
 
-[![Laptop Chaos](https://media.tenor.com/4Gf8L9WBCwkAAAAC/laptop.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJnamhlMjVvbHhmZXVmMHFuN3ZzYzdkZm1manB1ejM3eWoxbDJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
-
-
 ### So, What Do I Actually Do?
 
-* 🤖 I teach computers how to think, mostly so I can get them to do my homework. So far, they've only learned to ask for more RAM.
-* ☕ Powered by an unhealthy amount of coffee and the sacred texts of Stack Overflow. My code is 90% logic, 10% magic, and 100% held together by hope.
-* ☁️ I put things in the cloud. It's like a digital attic where I can store my projects and forget about them, professionally.
-* 🚁 My main hobby is "rapid, unscheduled disassembly." I build things to fly, and they teach me valuable lessons about gravity.
+* I teach computers how to think, mostly so I can get them to do my homework. So far, they've only learned to ask for more RAM.
+* Powered by an unhealthy amount of coffee and the sacred texts of Stack Overflow. My code is 90% logic, 10% magic, and 100% held together by hope.
+* I put things in the cloud. It's like a digital attic where I can store my projects and forget about them, professionally.
+* My main hobby is "rapid, unscheduled disassembly." I build things to fly, and they teach me valuable lessons about gravity.
 
 ### My Life Philosophy
 
