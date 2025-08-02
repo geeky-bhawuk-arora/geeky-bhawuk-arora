@@ -2,12 +2,14 @@
 
 On paper, I'm a student of AI & Data Science. In reality, I'm a professional bug creator and a full-time enthusiast of things that fly (and occasionally crash).
 
+![Cat](https://tenor.com/view/laptop-gif-26065234)
+
 ### So, What Do I Actually Do?
 
-* 🤖 **AI & Data Science:** I teach computers how to think, mostly so I can get them to do my homework. So far, they've only learned to ask for more RAM.
-* ☕ **Java & Spring Boot:** Powered by an unhealthy amount of coffee and the sacred texts of Stack Overflow. My code is 90% logic, 10% magic, and 100% held together by hope.
-* ☁️ **Microsoft Azure:** I put things in the cloud. It's like a digital attic where I can store my projects and forget about them, professionally.
-* 🚁 **Drones & RC Planes:** My main hobby is "rapid, unscheduled disassembly." I build things to fly, and they teach me valuable lessons about gravity.
+* 🤖 I teach computers how to think, mostly so I can get them to do my homework. So far, they've only learned to ask for more RAM.
+* ☕ Powered by an unhealthy amount of coffee and the sacred texts of Stack Overflow. My code is 90% logic, 10% magic, and 100% held together by hope.
+* ☁️ I put things in the cloud. It's like a digital attic where I can store my projects and forget about them, professionally.
+* 🚁 My main hobby is "rapid, unscheduled disassembly." I build things to fly, and they teach me valuable lessons about gravity.
 
 ### My Life Philosophy
 
