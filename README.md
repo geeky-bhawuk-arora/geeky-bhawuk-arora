@@ -3,7 +3,9 @@
 On paper, I'm a student of AI & Data Science. In reality, I'm a professional bug creator and a full-time enthusiast of things that fly (and occasionally crash).
 
 <p align="center">
-  <img src="https://i.imgur.com/vSoYp2E.gif" alt="Funny coding gif](https://tenor.com/view/laptop-gif-26065234" width="400"/>
+<!--   <img src="https://i.imgur.com/vSoYp2E.gif" alt="Funny coding gif](https://tenor.com/view/laptop-gif-26065234" width="400"/>
+
+  ![Excited Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 </p>
 
 ### So, What Do I Actually Do?
