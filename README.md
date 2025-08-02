@@ -2,7 +2,7 @@
 
 On paper, I'm a student of AI & Data Science. In reality, I'm a professional bug creator and a full-time enthusiast of things that fly (and occasionally crash).
 
-![Laptop Chaos](https://media.tenor.com/4Gf8L9WBCwkAAAAC/laptop.gif)
+![Laptop Chaos][(https://media.tenor.com/4Gf8L9WBCwkAAAAC/laptop.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJnamhlMjVvbHhmZXVmMHFuN3ZzYzdkZm1manB1ejM3eWoxbDJsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 ### So, What Do I Actually Do?
 
