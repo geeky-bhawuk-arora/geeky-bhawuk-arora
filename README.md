@@ -24,10 +24,10 @@ Got a wild idea? A bug that's driving you crazy? Or do you just want to debate w
 **Hit me up! Let's create something cool (or at least have a good laugh).**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
+  <a href="https://www.linkedin.com/in/bhawuk-arora" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/geeky-bhawuk-arora" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
