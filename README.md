@@ -1,27 +1,28 @@
-# Hey there! I'm Bhawuk. 👋
+# Hey there! I'm Bhawuk 👋
 
-On paper, I'm a student of AI & Data Science. In reality, I'm a professional bug creator and a full-time enthusiast of things that fly (and occasionally crash).
+I build ML platforms, but I’m equally drawn to quiet thoughts, highlighted book lines, and moments most people rush past.
 
-### So, What Do I Actually Do?
-
-* I teach computers how to think, mostly so I can get them to do my homework. So far, they've only learned to ask for more RAM.
-* Powered by an unhealthy amount of coffee and the sacred texts of Stack Overflow. My code is 90% logic, 10% magic, and 100% held together by hope.
-* I put things in the cloud. It's like a digital attic where I can store my projects and forget about them, professionally.
-* My main hobby is "rapid, unscheduled disassembly." I build things to fly, and they teach me valuable lessons about gravity.
-
-### My Life Philosophy
-
-> I believe in a decluttered mind. My 37 open browser tabs, however, respectfully disagree.
-
-My goal is to write code that's as clean as my room... which means it's a work in progress.
+I love learning, writing, and finding meaning in small things. Somewhere between technology, curiosity, and overthinking, I’m just trying to grow into someone I’d be proud to become. 🌟
 
 ---
 
-### Wanna Chat?
+### Tech I Work With
 
-Got a wild idea? A bug that's driving you crazy? Or do you just want to debate whether a hot dog is a sandwich?
+- Machine Learning & AI
+- Cloud & Distributed Systems
+- Kubernetes & DevOps
+- Azure & AWS
+- Python, APIs & Automation
 
-**Hit me up! Let's create something cool (or at least have a good laugh).**
+---
+
+### Current Status
+
+> Building. Learning. Overthinking. Repeating.
+
+---
+
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhawuk-arora" target="_blank">
