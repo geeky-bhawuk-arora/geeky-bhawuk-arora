@@ -1,40 +1,46 @@
 # Hey there! I'm Bhawuk 👋
 
-I build ML platforms, but I’m equally drawn to quiet thoughts, highlighted book lines, and moments most people rush past.
+![Profile Views](https://komarev.com/ghpvc/?username=geeky-bhawuk-arora&label=Profile%20views&color=0e75b6&style=flat)
 
-I love learning, writing, and finding meaning in small things. Somewhere between technology, curiosity, and overthinking, I’m just trying to grow into someone I’d be proud to become. 🌟
+> *ML platform builder · quiet thinker · professional overthinker*
 
----
-
-### Tech I Work With
-
-- Machine Learning & AI
-- Cloud & Distributed Systems
-- Kubernetes & DevOps
-- Azure & AWS
-- Python, APIs & Automation
+![ML Platforms](https://img.shields.io/badge/ML%20Platforms-%239F77DD?style=flat-square)
+![Lifelong Learner](https://img.shields.io/badge/Lifelong%20Learner-%231D9E75?style=flat-square)
+![Writer at heart](https://img.shields.io/badge/Writer%20at%20heart-%23EF9F27?style=flat-square)
 
 ---
 
-### Current Status
+### About me
 
-> Building. Learning. Overthinking. Repeating.
+I build ML platforms, but I'm equally drawn to quiet thoughts, highlighted book lines, and moments most people rush past. Somewhere between technology, curiosity, and overthinking — just trying to grow into someone I'd be proud to become. 🌟
+
+---
+
+### Stack & Craft
+
+`Python` `ML Infra` `Data Pipelines` `Writing` `Deep Work` `Philosophy`
 
 ---
 
 ### Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhawuk-arora" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/geeky-bhawuk-arora" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawuk-arora)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geeky-bhawuk-arora)
 
 ---
-*Disclaimer: May contain traces of sarcasm and bad puns.*
+
+### GitHub Stats
+
+![Bhawuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=geeky-bhawuk-arora&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-bhawuk-arora&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=geeky-bhawuk-arora&theme=transparent&hide_border=true)
+
+---
+
+*"May contain traces of sarcasm and bad puns."*
+
 
 ---
 
