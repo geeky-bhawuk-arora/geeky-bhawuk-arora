@@ -1,27 +1,23 @@
 # hey, i'm bhawuk 👋
 
-i build ML platforms by day. by night i'm underlining sentences in books, thinking too much, and trying to notice the small stuff everyone else rushes past.
+i build ML platforms, collect half-finished thoughts,  
+and underline sentences i know i'll come back to later.
 
-somewhere between tech and overthinking, i'm just trying to become someone i'd be proud of. 🌟
+somewhere between code, coffee, and overthinking.
 
----
-
-**what i work with**
-
-`Python` · `ML Infra` · `Data Pipelines` · `PyTorch` · `Kubernetes`
+🌱
 
 ---
 
-**what i think about**
-
-`deep work` · `philosophy` · `writing` · `meaning` · `bad puns`
+`Python` · `ML Infra` · `PyTorch` · `Kubernetes`
 
 ---
 
-**find me**
+### find me here
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawuk-arora)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/geeky-bhawuk-arora)
+🌐 https://bhawukarora.app  
+💼 https://www.linkedin.com/in/bhawuk-arora  
+🐙 https://github.com/geeky-bhawuk-arora
 
 ---
 
@@ -31,8 +27,7 @@ somewhere between tech and overthinking, i'm just trying to become someone i'd b
 
 ---
 
-![views](https://komarev.com/ghpvc/?username=geeky-bhawuk-arora&color=0e75b6&style=flat)
-&nbsp; *· may contain traces of sarcasm and bad puns*
+> “still learning. still becoming.”
 
 
 ---
